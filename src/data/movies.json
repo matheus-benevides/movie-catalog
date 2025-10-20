@@ -1,0 +1,136 @@
+[
+  {
+    "imdbID": "tt1979320",
+    "Title": "Rush: No Limite da Emoção",
+    "Year": "2013",
+    "Released": "2013",
+    "Genre": "Drama, Ação, Biografia",
+    "Director": "Ron Howard",
+    "Writer": "Peter Morgan",
+    "Actors": "Chris Hemsworth, Daniel Brühl, Olivia Wilde",
+    "Plot": "Na temporada de 1976 da Fórmula 1, a rivalidade entre o ousado James Hunt e o meticuloso Niki Lauda atinge seu auge após um acidente quase fatal de Lauda. O filme retrata a luta de Lauda para voltar às pistas e a busca de Hunt pelo título mundial.",
+    "Poster": "https://br.web.img3.acsta.net/pictures/210/235/21023527_20130730205450537.jpg"
+  },
+  {
+    "imdbID": "tt9243946",
+    "Title": "El Camino: A Breaking Bad Movie",
+    "Year": "2019",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/4/48/El_Camino_p%C3%B4ster.png",
+    "Director": "Vince Gilligan",
+    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0111161",
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/d/d2/The_Shawshank_Redemption_p%C3%B4ster.png",
+    "Plot": "Dois homens presos criam um vínculo ao longo de anos...",
+    "Director": "Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0068646",
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Plot": "A história da família mafiosa Corleone...",
+    "Director": "Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt3896198",
+    "Title": "Guardians of the Galaxy Vol. 2",
+    "Year": "2017",
+    "Released": "2017",
+    "Genre": "Ação, Aventura, Comédia",
+    "Director": "James Gunn",
+    "Writer": "James Gunn, Dan Abnett, Andy Lanning",
+    "Actors": "Chris Pratt, Zoe Saldaña, Dave Bautista",
+    "Plot": "Os Guardiões lutam para permanecerem unidos como equipe enquanto lidam com questões pessoais, especialmente o encontro de Star-Lord com seu pai, um ser celestial ambicioso chamado Ego.",
+    "Awards": "Indicado a 1 Oscar. 15 prêmios e 60 indicações no total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt1375666",
+    "Title": "Inception",
+    "Year": "2010",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "Plot": "Um ladrão especializado em invadir sonhos recebe a missão de plantar uma ideia na mente de alguém.",
+    "Director": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt1877830",
+    "Title": "The Batman",
+    "Year": "2022",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Plot": "Batman investiga uma série de assassinatos ligados à corrupção em Gotham City enquanto enfrenta o vilão Charada.",
+    "Director": "Matt Reeves",
+    "Actors": "Robert Pattinson, Zoë Kravitz, Paul Dano",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt2488496",
+    "Title": "Star Wars: The Force Awakens",
+    "Year": "2015",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/a/ae/Starwars_06.jpg",
+    "Plot": "Trinta anos após a queda do Império, uma nova ameaça surge na galáxia com a Primeira Ordem.",
+    "Director": "J.J. Abrams",
+    "Actors": "Daisy Ridley, John Boyega, Harrison Ford",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0133093",
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Poster": "https://m.media-amazon.com/images/I/51vpnbwFHrL._AC_.jpg",
+    "Plot": "Um hacker descobre a verdadeira natureza da realidade e seu papel na guerra contra as máquinas.",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "Type": "movie"
+  },
+    {
+    "imdbID": "tt0145487",
+    "Title": "Spider-Man",
+    "Year": "2002",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/1/14/Spide-Man_Poster.jpg",
+    "Director": "Sam Raimi",
+    "Actors": "Tobey Maguire, Willem Dafoe, Kirsten Dunst",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0295297",
+    "Title": "Spider-Man 2",
+    "Year": "2004",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/1/1a/Spider-Man_2.jpg",
+    "Plot": "Peter Parker enfrenta um novo inimigo, o Doutor Octopus, enquanto tenta equilibrar sua vida como herói e como pessoa comum. Ele também enfrenta dúvidas sobre seus poderes e o sacrifício que precisa fazer para manter sua identidade secreta.",
+    "Director": "Sam Raimi",
+    "Actors": "Tobey Maguire, Alfred Molina, Kirsten Dunst",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0438744",
+    "Title": "Spider-Man 3",
+    "Year": "2007",
+    "Poster": "https://upload.wikimedia.org/wikipedia/pt/3/37/Spider-Man_3.jpg",
+    "Plot": "Peter Parker lida com o impacto do uniforme negro que amplifica seus poderes, mas também suas emoções negativas. Ele enfrenta o vilão Venom, além de uma crise interna relacionada à sua vida pessoal e seu papel como Spider-Man.",
+    "Director": "Sam Raimi",
+    "Actors": "Tobey Maguire, Kirsten Dunst, Thomas Haden Church",
+    "Type": "movie"
+  },
+    {
+    "imdbID": "tt1411697",
+    "Title": "Se Beber, Não Case",
+    "Year": "2009",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2NhNmY2NDEtMDM5My00YzUxLWI5ZDQtYzE0ZWNjYjlmMzYxXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "Plot": "Após uma despedida de solteiro em Las Vegas, quatro amigos acordam sem memória e sem noção de como o casamento do amigo acabou virando um caos. Eles precisam encontrar o noivo desaparecido antes que seja tarde demais.",
+    "Director": "Todd Phillips",
+    "Actors": "Bradley Cooper, Zach Galifianakis, Ed Helms",
+    "Type": "movie"
+  }
+]
