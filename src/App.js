@@ -23,6 +23,9 @@ export default function App() {
 
   const filtered = useMemo(() => {
     if (!term) return movies;
+    if (term.length === 4 && !isNaN(Number(term))) {
+      return movies.filter(m => m.Year === term);
+    }
     return movies.filter(m =>
       m.Title.toLowerCase().includes(term.toLowerCase())
     );
